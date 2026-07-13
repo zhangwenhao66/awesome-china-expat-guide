@@ -60,6 +60,8 @@
 - [China Expat Guide: Education for Expat Children](https://chinaabroadguide.com/international-schools-china) — International schools by city, costs, and enrollment.
 - [China Expat Guide: Food & Groceries](https://chinaabroadguide.com/expat-groceries-china) — Where to find Western food and imported goods.
 
+- [Wander China Planner](https://github.com/daligao/wander-china) — Free drag-and-drop trip planner for 31 Chinese cities. Opening hours, ticket prices, metro routes, budget calculator. Built for foreigners — no Chinese needed. ([Live demo](https://ordinarymantrying.com/tools/wander-china/planner.html))
+
 ## Digital Life in China
 
 - [China Expat Guide: VPN Guide](https://chinaabroadguide.com/vpn-china) — Which VPNs work in China and how to set them up before arriving.
