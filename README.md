@@ -81,6 +81,7 @@
 - [Pleco](https://www.pleco.com) — The best Chinese-English dictionary app.
 - [HelloChinese](https://www.hellochinese.cc) — Gamified Mandarin learning app.
 - [HSK Academy](https://www.hskhsk.com) — Free HSK exam preparation.
+- [FindChineseName](https://findchinesename.com) — Native-style Chinese names (not transliterations) with pinyin and meaning for work, business cards and WeChat.
 
 ## Expat Communities
 
